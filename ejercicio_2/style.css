@@ -1,1 +1,17 @@
-/* Aquí va el css */
+h1 {
+    font: size 48px;
+}
+ul{
+    color:#777777
+}
+li ol {
+    padding-left: 24px;
+}
+table, td {
+font-family: Arial, Helvetica, sans-serif;
+border: 1px solid black
+}
+.azul {
+background-color:aquamarine
+}
+
